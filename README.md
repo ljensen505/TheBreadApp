@@ -20,5 +20,5 @@
 <h4>Notes</h4>
     <ul>
         <li>Everything is in grams. Including "g" in your input is optional. 1000g == 1000</li>
-        <li>You need experience making sourdough. Timings will be off, but dough volume increases should be the same</li>
+        <li>You need experience making sourdough. Timings will be off, but dough volume increases should be the same.  This program won't give you detailed instructions - it only converts your ingredient list.</li>
     </ul>
