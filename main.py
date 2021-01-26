@@ -1,3 +1,7 @@
+# BUGS TO FIX
+# include starter flour/water in total amounts
+# fix negative ww flour when no ww flour called for
+
 import re
 
 print("Welcome to the Bread App!\nI'll convert a conventional bread recipe into a sourdough recipe.  A couple things to keep in mind:")
@@ -79,3 +83,4 @@ for key,val in levain.items():
 print(f"\nFinal Dough:")
 for key,val in sourdough_recipe.items():
     print(f"\t{key.title()}: {round(val)}g")
+
