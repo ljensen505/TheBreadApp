@@ -6,15 +6,14 @@
 
 <h4>Known Issues:</h4>
     <ul>
-        <li>improperly handles 0 ww flour in original recipe</li>
-        <li>fix spacing of and refactor opening print statements</li>
-        <li>incorproate functions; refactor accordingly</li>
+        <li>it's ugly</li>
+        <li>While the math works, it could probably be streamlined</li>
+        <li>If a liquid is used in place of water (such as milk), there will be unexpected results.  Using milk isn't recommended anyway though because of how long this dough takes to rise.</li>
     </ul>
 
 <h4>Requirements:</h4>
     <ul>
         <li>Python3</li>
-        <li>re — Regular expression operations</li>
     </ul>
 
 <h4>Notes</h4>
