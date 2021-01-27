@@ -102,9 +102,3 @@ for key,val in levain_recipe.items():
 print(f"\nFinal Dough @{hydration*100}%:")
 for key,val in sourdough_recipe.items():
     print(f"\t{key.title()}: {round(val)}g")
-
-
-# print(f"Original Recipe: {original_recipe}\nScale: {scale}\nLevain Recipe: {levain_recipe}\nSourdough Recipe: {sourdough_recipe}"
-#     f"levain weight: {levain_weight}\nstarter weight:{starter_weight}" 
-#     f"starter white:{starter_white_flour} starter ww:{starter_whole_wheat_flour} starter water:{starter_water}"
-# )
