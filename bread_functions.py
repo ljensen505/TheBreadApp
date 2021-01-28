@@ -1,5 +1,3 @@
-# all functions and descriptions store here
-
 def print_intro():
     """
     This function prints the introductory comments for the user to read.
@@ -35,9 +33,9 @@ def get_weight(ingredient):
     """
     USAGE: gets user input in grams of a specified ingredient
     INPUT: ingredient name
-    OUTPUT: integer of ingredient weight
+    OUTPUT: integer of ingredient weight based upon user input
     """
-    error_message = 'Usage: "1000g" or "1000"; not "thousand".'
+    error_message = 'Usage: "1000g" or "1000"; not "thousand" or " ".'
 
     while True:
         weight = input(f"\tHow much {ingredient}: ")

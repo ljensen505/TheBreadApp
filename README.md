@@ -1,4 +1,6 @@
-<h1>The Bread App!</h1>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+
+<h1>The Bread App <i class="fas fa-bread-slice"></i></h1>
 
 <h3>This python progam will convert a recipe that uses commercial yeast into a sourdough recipe.  For now is striaght CLI, but there are plans for a GUI in the future.</h3>
 
