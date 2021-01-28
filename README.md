@@ -1,6 +1,6 @@
 <h1>The Bread App!</h1>
 
-<img src="https://images.unsplash.com/photo-1597604396383-b8ca64ed8fa7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80" alt="" srcset="" width="200">
+<h1 align='center'><img src="https://images.unsplash.com/photo-1597604396383-b8ca64ed8fa7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80" alt="" srcset="" width="400"></h1>
 
 <h3>This python progam will convert a recipe that uses commercial yeast into a sourdough recipe.  For now is striaght CLI, but there are plans for a GUI in the future.</h3>
 
