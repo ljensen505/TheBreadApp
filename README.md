@@ -4,7 +4,7 @@
 
 <h3>This python progam will convert a recipe that uses commercial yeast into a sourdough recipe.  For now is striaght CLI, but there are plans for a GUI in the future.</h3>
 
-<h3><a href="https://repl.it/@ljensen505/ImpracticalMediocreSeahorse#main.py">Repl.it Preview</a></h3>
+<h3><a href="https://repl.it/@ljensen505/ImpracticalMediocreSeahorse#main.py" target="_blank">Repl.it Preview</a></h3>
 
 <h4>Known Issues:</h4>
     <ul>
