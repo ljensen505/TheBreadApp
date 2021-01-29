@@ -97,8 +97,8 @@ hydration = (sourdough_recipe['water'] + levain_recipe['water'] + starter_water)
 print("\nHere is your scaled and converted sourdough recipe:\n")
 print(f"Levain ({levain_weight}g):")
 for key,val in levain_recipe.items():
-    print(f"\t{key.title()}: {round(val)}g")
+    print(f"\t- {key.title()}: {round(val)}g")
 
 print(f"\nFinal Dough @{hydration*100}%:")
 for key,val in sourdough_recipe.items():
-    print(f"\t{key.title()}: {round(val)}g")
+    print(f"\t- {key.title()}: {round(val)}g")
