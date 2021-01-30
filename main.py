@@ -3,7 +3,7 @@ ABOUT
 This file contains all of the code to run a bread recipe conversion. 
 
 BUGS TO FIX
-
+improper handling of decimal in original recipe. 10.5g of salt -> 210g, but 10g is handled properly
 """
 
 from bread_functions import *

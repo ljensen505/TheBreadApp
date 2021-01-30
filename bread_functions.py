@@ -12,6 +12,7 @@ def print_intro():
     print("\nLet's start with your original (commercial yeast) recipe.")
     return
 
+
 def positive_responses():
     """
     This function returns a list of positive responses
@@ -21,6 +22,7 @@ def positive_responses():
     return ['yes', 'y', 'yeah']
 
 
+
 def negative_responses():
     """
     This function returns a list of negative responses
@@ -28,6 +30,7 @@ def negative_responses():
     OUTPUT: positive responses
     """
     return ['no', 'n', 'nope']
+
 
 def get_weight(ingredient):
     """

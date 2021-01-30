@@ -9,8 +9,9 @@
 <h4>Known Issues:</h4>
     <ul>
         <li>it's ugly</li>
-        <li>While the math works, it could probably be streamlined</li>
+        <li>BUG: improper handling of decimal in original recipe. 10.5g of salt -> 210g, but 10g is handled properly</li>
         <li>If a liquid is used in place of water (such as milk), there will be unexpected results.  Using milk isn't recommended anyway though because of how long this dough takes to rise.</li>
+        <li>tell user to not input baker's yeast whatoever</li>
     </ul>
 
 <h4>Requirements:</h4>
