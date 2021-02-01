@@ -1,16 +1,17 @@
 """
 ABOUT
-This file contains all of the code to run a bread recipe conversion. 
+This file contains all of the code to run a bread recipe conversion.
 
 BUGS TO FIX
-improper handling of decimal in original recipe. When doubling: 10.5g of salt -> 210g, but 10g is handled properly
+improper handling of decimal in original recipe. When doubling: 10.5g of salt ->
+ 210g, but 10g is handled properly
 """
 
 from bread_functions import *
 
 print_intro()
 
-# Begin gathering ingredients, staring with flour 
+# Begin gathering ingredients, staring with flour
 original_recipe = {
     "white flour": get_weight('white flour'),
     "whole wheat flour": get_weight('whole wheat flour'),
